@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+a {
+    text-decoration: none;
+}
+ul {
+    list-style: none;
+}
+input,select,textarea{
+    border: none;
+    outline: none;
+    background: none;
+    -webkit-appearance: none;
+}
+body {
+    font-family: 'PingFang SC', -apple-system, Roboto, 'Microsoft YaHei';
+}
+
+.clearfix:after{
+    display: block;
+    clear: both;
+    content:''
+}

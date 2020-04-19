@@ -1,0 +1,10 @@
+.DS_Store
+node_modules
+npm-debug.log
+tasks.json
+.idea
+workspace.xml
+dist
+styleguide-dist
+coverage
+yarn.lock
